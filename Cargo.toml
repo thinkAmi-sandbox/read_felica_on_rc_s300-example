@@ -1,0 +1,8 @@
+[package]
+name = "pasori_s300_reader"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pcsc = "2.9.0"
+hex-literal = "0.4.1"
